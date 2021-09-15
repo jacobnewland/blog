@@ -16,4 +16,5 @@ I hope to make some great posts here.  This lab wasn't *too* much trouble for me
 - The command prompt
 
 and unfortunately, I couldn't figure it out.  Luckily, on my way to ask Dr. Goadrich about it, my friend Garrett noticed my struggles and helped me.  Thanks, Garrett!  Other than this one little problem, this lab was quite straightforward to me.  Jekyll and Ruby are both completely new to me and the only practice I've had with Atom, GitKraken, and Git as a whole are labs one and two, so most of this is new to me, but I feel like I'm learning a lot and making great progress.  I think everything here makes sense to me.  I'm looking forward to applying these skills I'm learning towards helping Indivisible Arkansas!
-####Thanks for reading!
+
+#### Thanks for reading!
