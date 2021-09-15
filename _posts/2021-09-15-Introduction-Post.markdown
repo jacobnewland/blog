@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Introduction Post"
+date:   2021-09-15 16:46:59 -0500
+categories: jekyll update
+---
+
 ##Hello everyone!
 ####Welcome to my blog.  
 I hope to make some great posts here.  This lab wasn't *too* much trouble for me, but I did get stuck at the end of step 3.  I didn't understand that I needed to type "cd" and then the filename I used for this blog in order to execute the 'bundle install' command.  I tried searching through:
