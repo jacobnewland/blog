@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction Post"
 date:   2021-09-15 16:46:59 -0500
-categories: jekyll update
+categories: lab 3
 ---
 
 ##Hello everyone!
