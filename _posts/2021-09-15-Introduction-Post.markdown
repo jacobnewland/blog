@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction Post"
 date:   2021-09-15 16:46:59 -0500
 categories: lab 3
+author: Jacob Newland
 ---
 
 ## Hello everyone!
