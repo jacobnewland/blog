@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lab 4 Reflection"
-date:   2021-09-17 19:17:59 -0500
+date:   2021-09-17 19:17:57 -0500
 categories: lab 4
 author: Jacob Newland
 ---
