@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lab 5 Reflection"
+title:  "Lab 7 Reflection"
 date:   2021-10-16 23:10:53 -0500
 categories: lab 7
 author: Jacob Newland
